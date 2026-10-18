@@ -1,1 +1,1 @@
-# space-invaders-1990
+copyright # space-invaders-1990
